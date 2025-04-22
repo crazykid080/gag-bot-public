@@ -29,7 +29,7 @@ You agree to:
 
 ## 6. Privacy
 
-We take your privacy seriously. Please refer to our [Privacy Policy](PRIVACY.md) for details on data collection, usage, and your rights.
+We take your privacy seriously. Please refer to our [Privacy Policy](https://github.com/crazykid080/gag-bot-public/blob/main/Privacy%20Policy.md) for details on data collection, usage, and your rights.
 
 ## 7. Account Termination
 
