@@ -2,6 +2,8 @@
 
 **Effective Date:** 04/22/2025
 
+**Last Updated:** 05/02/2025
+
 Welcome to **Gag bot**, a Discord application (the “App”) designed to enhance your experience on the Discord platform. By using our App, you agree to the following Terms of Service.
 
 ## 1. Acceptance of Terms
@@ -39,18 +41,24 @@ We reserve the right to suspend or permanently revoke access to the App if you v
 
 You may request removal of your stored data (user ID) at any time by contacting us on discord in our sever using this [Link](https://discord.gg/wMmbp5BGZb), through email at **crazykid080@gmail.com** or using an available in-app command (`/delete_user`).
 
-## 9. Disclaimer of Warranty
+## 9. User Submissions and Suggestions
+
+By submitting feedback, ideas, feature suggestions, or content to the App or its developers (whether directly or indirectly), you grant us a non-exclusive, royalty-free, perpetual, and irrevocable license to use, reproduce, modify, and implement such submissions in any form and for any purpose, without compensation or attribution to you.
+
+We are not obligated to use any submission, and implementation of any suggestion does not imply endorsement, partnership, or co-ownership.
+
+## 10. Disclaimer of Warranty
 
 The App is provided “as-is” without warranties of any kind. We do not guarantee uninterrupted or error-free service.
 
-## 10. Limitation of Liability
+## 11. Limitation of Liability
 
 To the maximum extent permitted by law, we are not liable for any damages or losses arising from your use or inability to use the App.
 
-## 11. Governing Law
+## 12. Governing Law
 
 These Terms shall be governed by and construed in accordance with the laws of the State of Arizona, United States, without regard to its conflict of law principles.
 
-## 12. Contact Us
+## 13. Contact Us
 
 If you have any questions or concerns about these Terms, please contact us at **crazykid080@gmail.com**.
