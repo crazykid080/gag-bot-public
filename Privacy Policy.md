@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective Date:** 04/22/2025  
-**Last Updated:** 05/02/2025
+**Last Updated:** 05/14/2025
 
 Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information when you use **Gag bot**.
 
@@ -10,6 +10,7 @@ Your privacy is important to us. This Privacy Policy outlines how we collect, us
 We only collect:
 - **Your Discord user ID**
 - **Command usage and arguments** when an error occurs
+- **Anonymous command usage statistics** (e.g., which commands are used and how often, without identifying who used them)
 
 This data is necessary to identify users, enable app functionality, and assist with addressing errors. No other personal data is stored.
 
@@ -18,6 +19,7 @@ This data is necessary to identify users, enable app functionality, and assist w
 Messages are processed **in real time** to provide functionality (e.g., respond to commands or perform actions).  
 **We do not store or log message content.** Once processed, messages are immediately discarded.  
 However, **if an error occurs**, the command and its arguments may be temporarily logged for debugging purposes.
+We may log anonymized command usage statistics (e.g., command name, timestamp) for performance monitoring and improvement. No user-identifying data is included.
 
 ## 3. How We Use Your Information
 
@@ -25,6 +27,7 @@ We use your Discord user ID to:
 - Identify your account in our system
 - Personalize features tied to your usage
 - Enable customization and tracking features
+- Analyze overall command usage trends to improve the App
 
 We may also use **command usage and arguments** in the event of an error to:
 - Diagnose and fix issues
